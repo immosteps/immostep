@@ -30,7 +30,7 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
     "swiper": "^7.4.1",
-    "tw-elements": "^1.0.0-alpha12",
+    "tw-elements": "^1.0.0",
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.2"
   },
